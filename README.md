@@ -11,7 +11,7 @@ This project leverages **AI + NLP + Stock Analytics** to assess **Environmental,
 - **Web Scraping** — BeautifulSoup
 - **Stock Market Analysis** — yFinance
 - **Streamlit** — Interactive Dashboard
-- **Tableau (optional)** — For advanced ESG dashboards
+- **Power BI (optional)** — For advanced ESG dashboards
 
 ---
 
