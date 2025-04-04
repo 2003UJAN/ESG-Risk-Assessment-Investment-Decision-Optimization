@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+beautifulsoup4
+requests
+yfinance
+pandas
