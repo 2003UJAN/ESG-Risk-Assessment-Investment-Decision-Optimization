@@ -21,4 +21,3 @@ if uploaded_file is not None:
     if ticker:
         correlation = correlate_esg_stock(ticker, sentiment[0]["score"])
         st.write(f"💰 ESG-Stock Correlation: **{correlation:.2f}**")
-
